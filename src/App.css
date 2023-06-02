@@ -1,0 +1,41 @@
+body {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+.active {
+  background-color: blue;
+  color: white;
+}
+
+button {
+  width: 100px;
+  height: 30px;
+  margin: 8px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.form-button {
+  background-color: black;
+  color: white;
+  border-radius: 4px;
+}
+
+input {
+  width: 120px;
+  height: 20px;
+  margin: 4px;
+}
+
+h1.beer-name {
+  color: blue;
+  margin-top: 50px;
+}
+
+img {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
