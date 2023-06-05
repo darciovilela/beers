@@ -51,14 +51,14 @@ export const Form: React.FC<FormProps> = ({ addBeer, setActiveBeer }) => {
 				<input
 					type="text"
 					name="country"
-					placeholder="Add a beer"
+					placeholder="Country"
 					value={formState.country}
 					onChange={handleChange}
 				/>
 				<input
 					type="text"
 					name="style"
-					placeholder="Add a beer"
+					placeholder="Style"
 					value={formState.style}
 					onChange={handleChange}
 				/>
