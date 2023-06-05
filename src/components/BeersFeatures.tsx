@@ -1,5 +1,5 @@
-import { getImageName } from '../helpers/getImageName';
 import { Beer } from '../interfaces/beer';
+import { getImageName } from '../helpers/getImageName';
 
 interface BeerFeaturesProps {
 	activeBeerFeatures?: Beer;
