@@ -4,3 +4,7 @@ export interface Beer {
     style: string
 
 }
+
+export interface Item extends Beer {
+    id: number
+}
