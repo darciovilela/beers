@@ -45,7 +45,7 @@ export const Form: React.FC<FormProps> = ({
 			const itemExists = items.map((item) => item.name).includes(name);
 
 			if (itemExists) {
-				setErrorMessage(`item ${name} already exists.`);
+				setErrorMessage(`Item ${name} already exists.`);
 				return;
 			}
 
