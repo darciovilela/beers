@@ -1,7 +1,8 @@
 # beers
 
-## Beer list and features. App in React with Ts and useState hook.
+## CRUD beer using React with TypeScript and hooks.
 
 ## To run:
+
 - clone repo
 - npm run dev
